@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.version      = "1.0.0"
   spec.summary      = "YRSingleImageSelector is used for pick image. this will help to get quick choose image from gallery or camera."
 
-  spec.description  = "YRSingleImageSelector is used for pick image. this will help to get quick choose image from gallery or camera"
+  spec.description  = "YRSingleImageSelector is used for pick image. this will help to get quick choose image from gallery or camera. We can use it in profile image and registration page"
 
   spec.homepage     = "https://github.com/yogeshrathore123/YRSingleImageSelector"
 
